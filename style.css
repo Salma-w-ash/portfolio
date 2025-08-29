@@ -41,15 +41,16 @@ height: 303;
       margin: 0;
       letter-spacing: 0px;
     }
-    .custom-underline{
-        
+    
+   .custom-underline {
+        width: 200px;
          display: inline-block !important;         
   border-bottom: 3px solid #3edb94;
   padding-bottom: 4px;
   
     }
-   
   }
+  
   
     
   img {
@@ -111,6 +112,7 @@ letter-spacing: 2.29px;
   padding-bottom: 4px;
   }
 }
+
 .box{
   h5{
     font-family: Space Grotesk;
@@ -133,8 +135,7 @@ letter-spacing: 0px;
 
   }
 }
-.container{
-}
+
 
 div p{
   font-family: Space Grotesk;
